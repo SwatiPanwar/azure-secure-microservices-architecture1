@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="azure-microservice-architecture" src="https://github.com/user-attachments/assets/5689fef7-fe7c-44de-ae5e-24e12c12c140" />
+
 # Azure Secure Microservices Architecture 🚀
 
 This project demonstrates a production-grade Azure architecture focusing on:
